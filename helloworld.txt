@@ -1,6 +1,6 @@
 hello git I Love Git! 我修改了！
-hello git I Love Git! 我有修改了！
-hello git I Love Git!
+hello git I Love Git! 我又修改了！
+hello git I Love Git! 我又又又修改了！
 hello git I Love Git!
 hello git I Love Git! master update!
 hello git I Love Git! hot-fix update!
